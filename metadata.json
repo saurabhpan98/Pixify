@@ -1,0 +1,6 @@
+{
+  "name": "Photo and PDF Resizer",
+  "description": "A sleek, frontend-only application to resize, scale, crop, and convert photos and PDFs with high quality, supporting multiple dimensions (percentage, pixels, centimeters) and customizable DPI settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

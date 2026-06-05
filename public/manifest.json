@@ -1,0 +1,30 @@
+{
+  "name": "Photo and PDF Resizer",
+  "short_name": "Resizer",
+  "description": "A modern client-side application to resize, scale, crop, and convert photos and PDFs with high quality.",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070813",
+  "theme_color": "#070813",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
